@@ -1,0 +1,8 @@
+﻿
+1) Si sale sul mulo
+
+2) Si impara a nuotare
+
+3) Si torna indietro
+
+[4] ferma il gioco
