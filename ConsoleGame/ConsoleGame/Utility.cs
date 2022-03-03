@@ -95,12 +95,12 @@ namespace ConsoleGame
             System.Threading.Thread.Sleep(500);
         }
 
-        internal static bool WriteAnswer(string correctAnswer, string wrongAnswerSentence)
+        internal static bool WriteAnswer(string correctAnswer, string wrongAnswerSentence, bool canStop = true)
         {
             while (true)
             {
                 string attempt = Console.ReadLine();
-                if (attempt.ToLower() == "stop") return false;
+                if (attempt.ToLower() == "stop" && canStop) return false;
                 if (attempt.ToLower().Contains(correctAnswer.ToLower())) return true;
                 else Console.WriteLine(wrongAnswerSentence);
             }

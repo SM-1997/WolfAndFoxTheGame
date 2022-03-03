@@ -68,9 +68,11 @@ namespace ConsoleGame
                         if (LastChapter.Tell(progress)) progress.WinChapter(GameProgress.chapter.finalChapter);
                         else LoseGame();
                         break;
-                    default
-
-                    return;
+                    default:
+                        Console.Clear();
+                        Console.WriteLine(System.IO.File.ReadAllText(@"GeneralTexts\GameCompleted.txt"));
+                        Console.ReadLine();
+                        return;
                 }
             }
         }

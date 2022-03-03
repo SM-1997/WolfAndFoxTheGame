@@ -49,7 +49,7 @@
     <None Update="GeneralTexts\SaveSchema.txt">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </None>
-    <None Update="GeneralTexts\Volpetta.txt">
+    <None Update="LastChapterTxt\Volpetta.txt">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </None>
     <None Update="FirstChapterTxt\CompareUnLupo.txt">
@@ -59,6 +59,9 @@
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </None>
     <None Update="GeneralTexts\TitoliTesta.txt">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="LastChapterTxt\Strega.txt">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </None>
     <None Update="LastChapterTxt\FineUltimoCapitolo.txt">

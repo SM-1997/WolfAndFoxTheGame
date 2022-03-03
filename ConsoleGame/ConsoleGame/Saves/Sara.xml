@@ -8,7 +8,7 @@
 	<Progress>
 		<winChapter1>true</winChapter1>
 		<winChapter2>true</winChapter2>
-		<winChapter3>false</winChapter3>
+		<winChapter3>true</winChapter3>
 		<winFinalChapter>false</winFinalChapter>
 		<OldWoman>
 			<Win>false</Win>

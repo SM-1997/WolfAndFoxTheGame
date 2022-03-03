@@ -391,13 +391,13 @@ namespace ConsoleGame
                 Utility.print(new string[]{ "Camminate e lasciate dietro di voi il lago e i due innamorati..",
                     "Lupetto dice:\"Che carini quei due.. anche io per chiedere a Volpetta di venire nella mia tana..\"",
                     "\"L'ho portata a cena in un ristorante stellato..\"",
-                    "\"Dal quale si vedeva tutta Firenche, la città più bella di voi umani!\"",
+                    "\"Dal quale si vedeva tutta Pirenche, la città più bella di voi umani!\"",
                     "\"Eheheh.. non ha saputo dirmi di no!\""});
 
                 Utility.print(new string[]{ "Continuando il sentiero..",
                     "Vedete che la strada termina in un campo, con un grande albero nel mezzo!",
-                    "Sull'albero c'è una casa lugubre..",
-                    "La casa ha un aspetto spettrale e ci sono corvi su tutti i rami dell'albero .."});
+                    "Sotto l' albero c'è una casa lugubre..",
+                    "Questa ha un aspetto spettrale e ci sono corvi su tutti i rami dell'albero .."});
 
                 Utility.print(new string[]{ "Due grossi avvoltoio volano di fronte a voi",
                     "Con tono sinistro dicono :\"Fermatevi qui viaggiatori.. questo non è un posto adatto a voi.\"",

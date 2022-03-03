@@ -10,7 +10,6 @@ C:\Users\SM\source\repos\ConsoleGame\ConsoleGame\bin\Debug\net5.0\GeneralTexts\L
 C:\Users\SM\source\repos\ConsoleGame\ConsoleGame\bin\Debug\net5.0\GeneralTexts\Menu.txt
 C:\Users\SM\source\repos\ConsoleGame\ConsoleGame\bin\Debug\net5.0\GeneralTexts\SaveSchema.txt
 C:\Users\SM\source\repos\ConsoleGame\ConsoleGame\bin\Debug\net5.0\GeneralTexts\TitoliTesta.txt
-C:\Users\SM\source\repos\ConsoleGame\ConsoleGame\bin\Debug\net5.0\GeneralTexts\Volpetta.txt
 C:\Users\SM\source\repos\ConsoleGame\ConsoleGame\bin\Debug\net5.0\Saves\Sara.xml
 C:\Users\SM\source\repos\ConsoleGame\ConsoleGame\bin\Debug\net5.0\SecondChapterTxt\Cavaliere.txt
 C:\Users\SM\source\repos\ConsoleGame\ConsoleGame\bin\Debug\net5.0\SecondChapterTxt\ConversazioneFinale.txt
@@ -93,3 +92,8 @@ C:\Users\SM\source\repos\ConsoleGame\ConsoleGame\bin\Debug\net5.0\WolfAndFoxGame
 C:\Users\SM\source\repos\ConsoleGame\ConsoleGame\obj\Debug\net5.0\WolfAndFoxGame.dll
 C:\Users\SM\source\repos\ConsoleGame\ConsoleGame\obj\Debug\net5.0\ref\WolfAndFoxGame.dll
 C:\Users\SM\source\repos\ConsoleGame\ConsoleGame\obj\Debug\net5.0\WolfAndFoxGame.pdb
+C:\Users\SM\source\repos\ConsoleGame\ConsoleGame\bin\Debug\net5.0\GeneralTexts\GameCompleted.txt
+C:\Users\SM\source\repos\ConsoleGame\ConsoleGame\bin\Debug\net5.0\LastChapterTxt\FineUltimoCapitolo.txt
+C:\Users\SM\source\repos\ConsoleGame\ConsoleGame\bin\Debug\net5.0\LastChapterTxt\Strega.txt
+C:\Users\SM\source\repos\ConsoleGame\ConsoleGame\bin\Debug\net5.0\LastChapterTxt\UltimoCapitolo.txt
+C:\Users\SM\source\repos\ConsoleGame\ConsoleGame\bin\Debug\net5.0\LastChapterTxt\Volpetta.txt
