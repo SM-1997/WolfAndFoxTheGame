@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>WolfAndFoxGame</id>
+    <version>1.0.0</version>
+    <authors>WolfAndFoxGame</authors>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework="net5.0">
+        <dependency id="Aardvark.Base.FSharp" version="5.1.25" exclude="Build,Analyzers" />
+        <dependency id="System.Drawing.Common" version="6.0.0" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="D:\GIT\WolfAndFoxTheGame\ConsoleGame\ConsoleGame\bin\Release\net5.0\WolfAndFoxGame.runtimeconfig.json" target="lib\net5.0\WolfAndFoxGame.runtimeconfig.json" />
+    <file src="D:\GIT\WolfAndFoxTheGame\ConsoleGame\ConsoleGame\bin\Release\net5.0\WolfAndFoxGame.dll" target="lib\net5.0\WolfAndFoxGame.dll" />
+  </files>
+</package>

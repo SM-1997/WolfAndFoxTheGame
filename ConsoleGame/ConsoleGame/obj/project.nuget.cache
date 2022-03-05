@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "gYGKQzwSBTh4N9HWsTZ4FYY/pMZxJz0THTw5EoI1Rdru0DokIyIwXu0O1EbHLD/ITdUuLTrC/2Bs1lFGCJ4llg==",
+  "dgSpecHash": "PB4dcGp00mwKXZMc9v4LE1P0GJo7xttPrJlKGzyFR9iMYl0OsLMiCv8c2yhmjZHlsnk2wWB1QE4Wahz0W16Sog==",
   "success": true,
-  "projectFilePath": "C:\\Users\\SM\\source\\repos\\ConsoleGame\\ConsoleGame\\ConsoleGame.csproj",
+  "projectFilePath": "D:\\GIT\\WolfAndFoxTheGame\\ConsoleGame\\ConsoleGame\\ConsoleGame.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\SM\\.nuget\\packages\\aardvark.base\\5.1.25\\aardvark.base.5.1.25.nupkg.sha512",
     "C:\\Users\\SM\\.nuget\\packages\\aardvark.base.fsharp\\5.1.25\\aardvark.base.fsharp.5.1.25.nupkg.sha512",

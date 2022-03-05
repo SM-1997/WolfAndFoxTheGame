@@ -1,0 +1,7 @@
+﻿Premi il numero corrispondente e premi invio per scegliere..
+
+1) Gioca
+
+2) Info
+
+3) Esci

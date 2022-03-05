@@ -2269,11 +2269,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\SM\\source\\repos\\ConsoleGame\\ConsoleGame\\ConsoleGame.csproj",
+      "projectUniqueName": "D:\\GIT\\WolfAndFoxTheGame\\ConsoleGame\\ConsoleGame\\ConsoleGame.csproj",
       "projectName": "WolfAndFoxGame",
-      "projectPath": "C:\\Users\\SM\\source\\repos\\ConsoleGame\\ConsoleGame\\ConsoleGame.csproj",
+      "projectPath": "D:\\GIT\\WolfAndFoxTheGame\\ConsoleGame\\ConsoleGame\\ConsoleGame.csproj",
       "packagesPath": "C:\\Users\\SM\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\SM\\source\\repos\\ConsoleGame\\ConsoleGame\\obj\\",
+      "outputPath": "D:\\GIT\\WolfAndFoxTheGame\\ConsoleGame\\ConsoleGame\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"

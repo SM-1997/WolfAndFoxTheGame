@@ -521,7 +521,7 @@ namespace ConsoleGame
                 }
             }
 
-            Utility.print(new string[] { "Siete vicini ali Alberti che cercano dappertutto il moschettone per arrampicare...",
+            Utility.print(new string[] { "Siete vicini agli Alberti che cercano dappertutto il moschettone per arrampicare...",
                 "Non potete aiutarli: non avete un moschettone.."});
             return Utility.choice.nothing;
 
@@ -555,7 +555,7 @@ namespace ConsoleGame
                 {
                     case 1:
                         Utility.print(new string[]{ "Tu e Lupetto prendete la rincorsa insieme",
-                        "Correte forte e spingete ma... rimbalzate sulla pancia dell'Orso nero che incrocia ancora di più le braccia."});
+                        "Correte forte e spingete ma... rimbalzate sulla pancia dell'Orso nero che incrocia ancora di più le braccia fuffose."});
                         return Utility.choice.nothing;
                     case 2:
                         return Utility.choice.comeBack;
@@ -575,9 +575,8 @@ namespace ConsoleGame
                 switch (Utility.MakeChoice(3))
                 {
                     case 1:
-                        Utility.print(new string[]{ "Alzi le braccia per sembrare più grosso..",
-                        "Lupetto mostra i denti e abbassa le orecchie..",
-                        "Una talpa grida: \"Qualsiasi cosa stiate facendo siamo cieche POTA!\""});
+                        Utility.print(new string[]{ "Le talpe vi dicono:\"POTA! Ci pagano in radici!\"",
+                        "\"Voi non avete niente che ci interessi! POTAPOTA!\""});
                         return Utility.choice.nothing;
 
                     case 2:
@@ -602,9 +601,8 @@ namespace ConsoleGame
                 switch (Utility.MakeChoice(3))
                 {
                     case 1:
-                        Utility.print(new string[]{ "Alzi le braccia per sembrare più grosso..",
-                        "Lupetto mostra i denti e abbassa le orecchie..",
-                        "Una talpa grida: \"Qualsiasi cosa stiate facendo siamo cieche POTA!\""});
+                        Utility.print(new string[]{ "Le talpe vi dicono:\"POTA! Ci pagano in radici!\"",
+                        "\"Voi non avete niente che ci interessi! POTAPOTA!\""});
                         return Utility.choice.nothing;
                     case 2:
                         Utility.print(new string[]{ "Alzi le braccia per sembrare più grosso..",
@@ -630,7 +628,7 @@ namespace ConsoleGame
                     case 1:
                         Utility.print(new string[] { "Siete vicini alla ventenne anziana col malditesta... le date l'infuso per la tisana",
                             "La giovane anziana esclama:\"UAU! Questo si che mi farà stare meglio!\"",
-                            "Lupetto ti sussurra:\"Ma è solo acqua calda calda colorata..\"",
+                            "Lupetto ti sussurra:\"Ma è solo acqua calda colorata..\"",
                             "La donna vi sorride:\"Vi ringrazio, vi do questo piccolo dono come segno della mia gratitudine!\""});
 
                         Utility.print(new string[] { "La giovane anziana vi allunga la mano..",

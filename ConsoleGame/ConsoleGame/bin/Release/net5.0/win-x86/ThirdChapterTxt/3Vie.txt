@@ -1,0 +1,6 @@
+﻿
+1) Vai nella strada a sinistra
+
+2) Vai nella strada dritta
+
+3) Vai nella strada a destra
